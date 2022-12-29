@@ -11,7 +11,7 @@ I am focused on transitioning from the operations based roles I’ve held in the
 
 I'm currently searching for a Junior Developer role that will further help me mature my technical skill-set while also utilizing my diverse background to support and innovate the organization I’m working for. I also want to help educate and lead anyone looking to get into the tech field or just pick up a new side hobby.
 
- <----| If you'd like to reach out to me at anytime you can reach me on linkedin or message me on here!
+ <----| If you'd like to reach out to me at anytime you can reach me on linkedin!
 <a href="https://www.linkedin.com/in/alexbest6/">
   <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
